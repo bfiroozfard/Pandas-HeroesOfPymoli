@@ -1,6 +1,6 @@
-# Pandas, Heroes OfPymoli
+# Pandas, Heroes Of Pymoli
 
-## Finding meaningful insight about purchasing computer game  behvaior  using Python and  Pandas.
+## Finding meaningful insight about purchasing computer gamer  behvaior  using Python and  Pandas.
 
 
 
